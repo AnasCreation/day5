@@ -1,0 +1,22 @@
+
+    h2 span {
+        font-family: "Playwrite GB S", cursive;
+    }
+    
+    
+    img{
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        object-fit: cover;
+    }
+    
+    
+    
+    .first{
+        background-image: url(./pxfuel.jpg);
+    }
+    
+    .link {
+        color: brown;
+    }
